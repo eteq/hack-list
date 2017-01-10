@@ -13,9 +13,9 @@ deploy:
     provider: script
     script: site_generator/travis_deploy
     on:
-        repo: aasorg/hacks-collector
+        repo: eteq/hacks-collector
         branch: master
 
 env:
     global:
-        - secure: ""
+        - secure: "bpI4YE+YSyaggvcYFi96rUCyGa/ep6RqF2zb+6psOE6XooDvykatf2Ll6qiwBgpmPiGI9WI5PvOVrMJpfXwL0J/XI/+kEuv1H0mPOobW8tqFFo1Iq3UzejEf8++KSqIvE8shQKMS3yEydwEbJuGLKuIXEWAnM/r4ikmTEJCL9ZWphQ2cyI7T/B+ueQ2zJGTjs8bjV3SkPRPzm0A2grS2yAPb8Sk2w4OoOICzmectsd2nJx9y4OutPLwv6m1CCRVpTjmoVvwOO+AQLXCGiTdZWcWDX0g7QXgSkz6vo+7wSD6+AO+QH28kpvCsNWQPZgiCns/CAsdJuqB6Ev/CaSQt2ggEvg5QDXmwubEYamUuSpF1EOIUn/sQgTuTdS+K2AYW8WRPyXozGt214Rx7Va2b960fh7lhaIJdOvqCUOUalBIeAkA8a2FmPZse2RLvtQ8dj4EaZg7IRDv/jUIqgTYd2Fnlru5oC7xxz732QBkQ9BxMPf5WfSR0+iHbWfre0dOv4yNhfrVLopxcLjaRqcWzKZ1t9cJE2ybia2u6dU1DmnyKJjGf7huOovKh6mUgeGO2aObjIQZ0IU5sXHGObhI1eeEXSuZzcSHmtcJSwbM5gTDVEY2q4usuqmsAsqX5c+Bi6UAIU32cTOxSQk1dwlK3VSHhOUrEPlAtLLY+aKR/m2o="
