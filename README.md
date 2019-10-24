@@ -1,5 +1,6 @@
 # List of .Astronomy hacks
 
+
 This repository is intended to contain information about all hacks (coding or otherwise) that have
 been carried out as part of the .Astronomy meetings. Each meeting has a folder
 which in turn contains one file for each hack. Adding a file to this repository
